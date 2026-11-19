@@ -7,7 +7,7 @@ Signature HTML dynamique (liens cliquables : site web, Facebook, Instagram, Link
 | Fichier | Usage |
 |---|---|
 | `signature-marine.html` | **Autonome** : les 12 images sont intégrées en base64 (~180 Ko). Fonctionne partout sans hébergement. |
-| `signature-marine-github-pages.html` | **Léger** (< 5 Ko) : les images sont servies depuis GitHub Pages. À utiliser **après** avoir activé GitHub Pages (voir ci-dessous). |
+| `signature-marine-hosted.html` | **Léger** (< 5 Ko) : les images sont servies depuis GitHub Pages. À utiliser **après** avoir activé GitHub Pages (voir ci-dessous). |
 | `assets/` | Les 12 images utilisées par la version légère. |
 
 ## Activer GitHub Pages (pour la version légère)
