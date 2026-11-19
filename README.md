@@ -7,6 +7,7 @@ Signature HTML dynamique (liens cliquables : site web, Facebook, Instagram, Link
 | Fichier | Usage |
 |---|---|
 | `signature-marine.html` | **Autonome** : les 12 images sont intégrées en base64 (~180 Ko). Fonctionne partout sans hébergement. |
+| `signature-marine-outlook.html` | **Outlook bureau (Word)** : mise en page 100 % tableaux, évite les décalages. Utiliser ce fichier pour le copier-coller dans Outlook. |
 | `signature-marine-hosted.html` | **Léger** (< 5 Ko) : les images sont servies depuis GitHub Pages. À utiliser **après** avoir activé GitHub Pages (voir ci-dessous). |
 | `assets/` | Les 12 images utilisées par la version légère. |
 
@@ -28,8 +29,9 @@ Signature HTML dynamique (liens cliquables : site web, Facebook, Instagram, Link
 ## Installer la signature — Outlook (bureau Windows)
 
 1. Ouvrir le fichier HTML dans un navigateur, tout sélectionner et copier.
-2. Outlook → **Fichier → Options → Courrier → Signatures… → Nouvelle** (nommer « ecobulles »).
-3. Coller la signature → **OK**.
+2. Utiliser **`signature-marine-outlook.html`** (ouvert dans le navigateur) : tout sélectionner et copier.
+3. Outlook → **Fichier → Options → Courrier → Signatures… → Nouvelle** (nommer « ecobulles »).
+4. Coller la signature → **OK**.
 
 ## Installer la signature — Apple Mail
 
